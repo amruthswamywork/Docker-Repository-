@@ -1,0 +1,1 @@
+print("Hello, Docker! This is a simple Python app.")
